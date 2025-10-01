@@ -1,21 +1,48 @@
-MIT License
+# License
 
+**HTML to PDF Converter**  
 Copyright (c) 2025 Xavier Fonseca
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Terms of Use
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software for personal or commercial purposes, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Required Attribution
+
+1. **You must retain** the copyright notice, this list of conditions, and the following attribution in all copies or substantial portions of the Software:
+   
+   ```
+   Original work by Xavier Fonseca
+   HTML to PDF Converter
+   https://github.com/xavierfonsecaphd/HTMLtoPDFconverter-py
+   ```
+
+2. **If you modify the Software**, you must clearly indicate that changes were made and include the date of modification.
+
+3. **Attribution must be visible** in one of the following ways:
+   - In the source code comments at the top of the file
+   - In a LICENSE or CREDITS file distributed with the Software
+   - In documentation if you distribute the Software as part of a larger project
+
+### What You Can Do
+
+- ✓ Use the Software for personal projects
+- ✓ Use the Software for commercial projects
+- ✓ Modify the Software to suit your needs
+- ✓ Distribute copies of the Software
+- ✓ Distribute modified versions of the Software
+- ✓ Incorporate the Software into larger projects
+
+### Conditions
+
+- You **must** provide attribution as specified above
+- You **must** include this license with any distribution
+- Modified versions **must** indicate that changes were made
+
+### Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+**Questions?** Contact: xavier.fonseca.phd@gmail.com
